@@ -77,15 +77,6 @@ main {
 section{
   margin-top: 190px;
 }
-main img{
-  margin-left: 130px;
-  margin-top: 70px;
-  border-radius: 30px;
-  
-  /* background-color:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.15)) ; */
-  filter: brightness(65%);
-  filter: contrast(70%);
-}
 
 section h3 {
 
@@ -473,52 +464,6 @@ footer{
 .center .content .phone{
   margin: 15px 0;
 }
-.right form .text{
-  font-size: 1.625rem;
-  margin-bottom: 2px;
-  color: whitesmoke;
-}
-.right form .msg{
-  margin-top: 10px;
-}
-.right form input, .right form textarea{
-  width: 100%;
-  font-size: 1.0625rem;
-  background:#5e7963;
-;
-;
-  padding-left: 10px;
-  border-radius:9px;
-border: 1px solid #222222;
-}
-.right form input:focus,
-.right form textarea:focus{
-  background-color:#998773;
-  border:2px solid grey;
-  outline-color: #3498db; 
-}
-.right form input{
-  height: 35px;
-}
-.right form .btn{
-  margin-top: 10px;
-}
-.right form .btn button{
-  height: 40px;
-  width: 100%;
-  border: none;
-  outline: none;
-  background: #3A5A40;
-  font-size: 1.0625rem;
-  font-weight: 500;
-  cursor: pointer;
-  transition: 2s;
-  border-radius:9px;
-  color: #d9d9d9;
-}
-.right form .btn button:hover{
-  background: #998773;
-}
 .bottom center{
   padding: 5px;
   font-size: 0.9375rem;
@@ -624,10 +569,6 @@ border: 1px solid #222222;
     width: 100%;
     text-align: center;
     margin-bottom: 10px;
-  }
-
-  main img {
-    margin-left: 0;
   }
 
   section {
