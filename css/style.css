@@ -649,6 +649,7 @@ footer{
 @media screen and (min-width: 769px) and (max-width: 992px) {
   nav .menu {
     justify-content: space-around;
+    display:none;
   }
 
   section h1 {
@@ -669,7 +670,3 @@ footer{
   }
 }
 
-/* Large Screens (993px and above) */
-@media screen and (min-width: 993px) {
-  /* Add adjustments for large screens if needed */
-}
